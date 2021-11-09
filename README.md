@@ -1,9 +1,9 @@
 # chatbot
 # Requirement for this project is:
-#tensorflow
+tensorflow
 
-#colorama
+colorama
 
-#numpy
+numpy
 
-#scikit_learn
+scikit_learn
